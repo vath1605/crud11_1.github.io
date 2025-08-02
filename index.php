@@ -11,8 +11,8 @@
     <header class="container">
         <nav class="navbar d-flex justify-content-center w-100">
             <ul class="w-25 bg-primary px-0 rounded-pill justify-content-evenly py-3 h-auto d-flex">
-            <li class="nav-link"><a class="text-decoration-none text-light fw-bold text-uppercase active" href="index.html">Register</a></li>
-            <li class="nav-link"><a class="text-decoration-none text-light fw-bold text-uppercase" href="user.html">Users</a></li>
+            <li class="nav-link"><a class="text-decoration-none text-light fw-bold text-uppercase active" href="index.php">Register</a></li>
+            <li class="nav-link"><a class="text-decoration-none text-light fw-bold text-uppercase" href="user.php">Users</a></li>
             </ul>
         </nav>
     </header>
